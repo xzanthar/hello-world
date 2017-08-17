@@ -1,2 +1,2 @@
 # hello-world
-Learning git
+xzanthar - player of games, engineer of software
